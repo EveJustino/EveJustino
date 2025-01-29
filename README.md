@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, sou Layé Justino! 👋
 
-<!--
-**EveJustino/EveJustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vinde ao meu perfil do GitHub! Aqui você encontrará meus projetos de código aberto, contribuições e muito mais. Eu sou apaixonade por Desenvolvimento web e Design, e estou sempre aprendendo novas tecnologias.
 
-Here are some ideas to get you started:
+## 🚀 O que eu estou fazendo?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvendo projetos em Python, JavaScript, CSS
+- Estudando Tecnologia da Informação pela Univesp, Frontend e Python pela TransDevs, e Desenvolvimento web pela Descodificadas 
+
+## 💻 Tecnologias que eu uso
+
+- **Linguagens**: Python, JavaScript, CSS
+- **Ferramentas**: Git
+
+
+## 💬 Vamos conversar!
+
+Você pode me encontrar em:
+
+- Instagram https://www.instagram.com/layee___/
+
+Estou sempre aberto para conversas sobre tecnologia, programação e oportunidades de colaboração. Sinta-se à vontade para abrir uma issue ou me enviar uma mensagem!
+
+---
+
+<p align="center">Feito com 💙 por Layé</p>
